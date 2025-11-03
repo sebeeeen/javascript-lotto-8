@@ -1,4 +1,4 @@
-import { LOTTO_CONSTANTS } from '/constants/Lottoconstants.js';
+import { LOTTO_CONSTANTS } from '../constants/Lottoconstants';
 
 class InputValidator {
   static validatePurchaseAmount(input) {
